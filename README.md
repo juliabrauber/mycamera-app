@@ -1,4 +1,4 @@
-# App-myCamera
+# MyCamera App
 
 Este projeto foi desenvolvido no início dos meus estudos em desenvolvimento de aplicativos. Ele tem como objetivo principal explorar conceitos básicos de React Native, incluindo navegação, uso de câmera e manipulação de imagens.
 
